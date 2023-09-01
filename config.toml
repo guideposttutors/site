@@ -1,0 +1,37 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = 'graysx'
+title = 'Guidepost Tutors | Best ACT Tutor Minneapolis (Affordable)'
+
+## Site Settings
+[params]
+logo = "assets/img/logo_wide.png"
+favicon = "assets/favicon.png"
+
+# Info
+address = "2633 Garfield Ave 55408"
+email = "guideposttutors@gmail.com"
+phone = "612 399 6816"
+
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Features"
+  URL = "#projects"
+  weight = 2
+
+  [[menu.main]]
+  name = "Schedule"
+  URL = "#appt"
+  weight = 3
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
