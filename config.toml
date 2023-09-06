@@ -1,7 +1,7 @@
 baseURL = 'https://guideposttutors.com/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Guidepost Tutors | Best ACT Tutor Minneapolis (Affordable)'
+title = 'Guidepost Tutors | Best ACT Tutor Minneapolis'
 
 ## Site Settings
 [params]
