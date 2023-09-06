@@ -10,7 +10,7 @@ main:
 # About
 about:
   title: "About us"
-  desc: "The premier ACT tutoring service in the Twin Cities area, Guidepost Tutors provides confidence that you can achieve your dream score. Whether your goal is to gain 10 points or to just snag the last two or three on the road to a 36, we provide inividually tailored solutions that are backed by expereince. Any sessions you book come with comprehensive plans full of practice problems and rehearsal tests absolutely free of charge. Additionally, the first session is always free, so click the button below to find an availaible slot! If you have questions about our process or would like to inquire about modifications to the service we offer, please contact us using the information at the bottom of the page. We will get back to you promptly, and we are always happy to be flexible and find what works best."
+  desc: "The premier ACT tutoring service in the Twin Cities area, Guidepost Tutors provides confidence that you can achieve your dream score. Whether your goal is to gain 10 points or just snag the last two or three on the road to a 36, we provide individually tailored solutions that are backed by experience. Any sessions you book come with comprehensive plans full of practice problems and rehearsal tests absolutely free of charge. Additionally, the first session is always free, so click the button below to find an available slot! If you have questions about our process or would like to inquire about modifications to the service we offer, please contact us using the information at the bottom of the page. We will get back to you promptly, and we are always happy to be flexible and find what works best."
   button:
     enable: true
     text: "Check Availibility"
@@ -24,13 +24,13 @@ appt:
 projects:
   card1:
     title: "Holistic"
-    text: "We start with your personalized goal in mind and develop and plan to achieve it. Come test day you will have gained all the insight needed to tackle the problems that give you the most trouble, and you will have rehearsed achieving your desired score multiple times, leaving no room for anxiety."
+    text: "We start with your personalized goal in mind and develop and plan to achieve it. Come test day, you will have gained all the insight needed to tackle the problems that give you the most trouble, and you will have rehearsed achieving your desired score multiple times, leaving no room for anxiety."
     img: "assets/img/image1.jpeg"
   card2:
     title: "Adaptable"
-    text: "One style does not fit all. This applies to how you will learn to approach questions, what meta strategies you will pursue on test day, and even where when and how we meet to guide your practice. We are all about finding the right fit for you."
+    text: "One style does not fit all. This applies to how you approach questions, the meta-strategies you pursue on test day, and even to where, when, and how we meet to guide your practice. We are all about finding the right fit for you."
     img: "assets/img/image2.jpeg"
   card3:
     title: "Guaranteed"
-    text: "We provide the first session free of charge because we are confident that you will be impressed with the value that one session can provide. Our experienced instructors aim to concisely and directly convey exactly what you need to overcome a problem. It is our goal to get you a better score in as few meetings as possible, not to sell you a giant package of sessions."
+    text: "We provide the first session free of charge because we are confident that you will be impressed with the value that a single session can provide. Our experienced instructors aim to concisely and directly convey exactly what you need to overcome a problem. It is our goal to get you a better score in as few meetings as possible, not to sell you a giant package of sessions."
     img: "assets/img/image3.jpeg"
